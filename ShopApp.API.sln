@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp.API", "ShopApp.API\ShopApp.API.csproj", "{21EF56D2-D15C-408B-B7BA-C999D260CD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp.Core", "ShopApp.Core\ShopApp.Core.csproj", "{454B96F1-A748-4562-85B3-18A6925F05AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAPI.Data", "ShopAPI.Data\ShopAPI.Data.csproj", "{1A32D1BA-8821-4C44-ADA9-FF79AF2FD328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21EF56D2-D15C-408B-B7BA-C999D260CD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EF56D2-D15C-408B-B7BA-C999D260CD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EF56D2-D15C-408B-B7BA-C999D260CD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EF56D2-D15C-408B-B7BA-C999D260CD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454B96F1-A748-4562-85B3-18A6925F05AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454B96F1-A748-4562-85B3-18A6925F05AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454B96F1-A748-4562-85B3-18A6925F05AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454B96F1-A748-4562-85B3-18A6925F05AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A32D1BA-8821-4C44-ADA9-FF79AF2FD328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A32D1BA-8821-4C44-ADA9-FF79AF2FD328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A32D1BA-8821-4C44-ADA9-FF79AF2FD328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A32D1BA-8821-4C44-ADA9-FF79AF2FD328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
